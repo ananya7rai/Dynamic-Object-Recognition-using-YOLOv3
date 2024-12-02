@@ -1,1 +1,1 @@
-# Dynamic-Object-Recognition-using-YOLOv3
+# Dynamic Object Recognition using YOLOv3
